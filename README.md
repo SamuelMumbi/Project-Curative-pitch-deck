@@ -30,6 +30,7 @@ Here try and think about how your project will look like. Ask the following Ques
 
 ![Project Planner Sheet](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/6583391c-c62e-4757-ae9b-827e481edf0c)
 https://drive.google.com/file/d/1n6j4l4Qk_FibtDIH77Hv68uBLAYItJ68/view?usp=drive_link
+https://docs.google.com/spreadsheets/d/1v4ADiNe3Q-AUSSL2S2EQtBzzP1PpcS_Is8rffcFU6g4/edit?usp=drive_link
 
 
 ## Execution: Communicate
