@@ -3,9 +3,9 @@
 For this holiday we will be working on a project idea will be submitting for graduation purposes. For Compassion Kenya will be finishing our learning in "February " and for KilifiGoa will be finishing in March. 
 So will  go through the 5 stages of project management  if you feel this tough you can use the same process on a portfolio project. 
 
-# Methodology: Use the five stages of project management to guide your work.
+# Methodology:  i will be Using the five stages of project management to guide my work.
 ![Minimalist Project Management Process Infographic Graph](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/1494d569-ec02-4647-b49d-ac2b2bff2849)
-Take a pen and a book then write down the stages...and use it as a guide when you finish stage one tick it on your book.
+ i will also take a pen and a book and write down the stages...and use it as a guide whenever i finish stage one , i will be ticking it on my book.
 
 
 ## Stages:
