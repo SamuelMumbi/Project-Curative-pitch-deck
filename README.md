@@ -29,6 +29,8 @@ Here try and think about how your project will look like. Ask the following Ques
 ** I advice you to draw on a piece of paper a roadmap of what you expect and create a clear plan with dates and timelines.
 
 ![Project Planner Sheet](https://github.com/kamausuzan197/Computer-Assignment/assets/85219913/6583391c-c62e-4757-ae9b-827e481edf0c)
+https://drive.google.com/file/d/1n6j4l4Qk_FibtDIH77Hv68uBLAYItJ68/view?usp=drive_link
+
 
 ## Execution: Communicate
 Implement the plan, manage tasks, monitor progress, and  address any challenges.
